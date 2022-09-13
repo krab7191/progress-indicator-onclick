@@ -1,0 +1,15 @@
+@use '@carbon/react';
+
+* {
+  margin: 1rem;
+  text-align: center;
+}
+
+header {
+  font-size: 2rem;
+  margin-bottom: 4rem;
+}
+
+p.cds--progress-label:hover {
+  border: 1px solid black;
+}
